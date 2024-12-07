@@ -24,3 +24,15 @@ Survivors often pivot or scale successfully to meet market demands.
 
 Current Scenario
 While millions of startups emerged during the internet era, only a fraction (likely in the tens of thousands globally) remain active, thriving as scaled businesses or niche players.
+
+Future ??
+
+1) Anonymous Decentralized Systems (Blockchain): 67.3% (2023–2030)
+2) Predictive and Automated Systems (AI/ML): 37.3% (2023–2030)
+3) Immersive Visual and Audio Experiences (VR/AR): 27.2% (2023–2030)
+4) Super Apps: 26.3% (2023–2032)
+5) Autonomous Robots: 25.7% (2023–2030)
+6) Smart City Administration: 25.7% (2023–2030)(IOT)
+
+Late bloomers : 
+1) Privacy Subscription Models: 15%–20% (2023–20)
